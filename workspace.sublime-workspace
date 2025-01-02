@@ -1,0 +1,950 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ou",
+				"outerprod"
+			],
+			[
+				"poin",
+				"polin2"
+			],
+			[
+				"zer",
+				"ZERO"
+			],
+			[
+				"l",
+				"LGT"
+			],
+			[
+				"ch",
+				"cholsl"
+			],
+			[
+				"ZE",
+				"ZERO_D"
+			],
+			[
+				"sprs",
+				"sprs2_dp"
+			],
+			[
+				"i",
+				"I4B"
+			],
+			[
+				"ze",
+				"ZERO_D"
+			],
+			[
+				"ON",
+				"ONE_D"
+			],
+			[
+				"ZER",
+				"ZERO_D"
+			],
+			[
+				"svd",
+				"svdcmp_dp"
+			],
+			[
+				"sv",
+				"svdcmp_sp"
+			],
+			[
+				"svb",
+				"svbksb_sp"
+			],
+			[
+				"tri",
+				"tridag_par"
+			],
+			[
+				"lu",
+				"lubksb"
+			],
+			[
+				"I",
+				"I4B"
+			],
+			[
+				"com",
+				"compiler_options"
+			],
+			[
+				"eprint",
+				"eprintln\teprintln!(…)"
+			],
+			[
+				"eprin",
+				"eprintln\teprintln!(…)"
+			],
+			[
+				"f",
+				"fcpl_id"
+			],
+			[
+				"H",
+				"H5Fcreate"
+			],
+			[
+				"in",
+				"Inc\t#include <…>"
+			],
+			[
+				"Tick",
+				"Ticket"
+			],
+			[
+				"num",
+				"numbers"
+			],
+			[
+				"print",
+				"print_drink"
+			],
+			[
+				"flao",
+				"flavor_str"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 34,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/fredjones42/projects/aoc"
+	],
+	"file_history":
+	[
+		"/home/fredjones42/Desktop/x/setup_aoc_year.sh",
+		"/home/fredjones42/Desktop/x/setup.sh",
+		"/home/fredjones42/projects/nr/src/nr.f90",
+		"/home/fredjones42/projects/nr/test/xtrapzd.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xtrapzd.reslt",
+		"/home/fredjones42/Desktop/rx-spag/final/xtrapzd.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/trapzd.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xsplin2.reslt",
+		"/home/fredjones42/projects/nr/test/xsplin2.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xsplin2.f90",
+		"/home/fredjones42/projects/nr/test/xsplie2.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xsplie2.reslt",
+		"/home/fredjones42/Desktop/rx-spag/final/xsplie2.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/splin2.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/splie2.f90",
+		"/home/fredjones42/projects/nr/test/xbcuint.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xbcuint.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/bcuint.f90",
+		"/home/fredjones42/projects/nr/test/xbcucof.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xbcucof.reslt",
+		"/home/fredjones42/Desktop/rx-spag/final/xbcucof.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/bcucof.f90",
+		"/home/fredjones42/projects/nr/test/xpolin2.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xpolin2.reslt",
+		"/home/fredjones42/Desktop/rx-spag/final/xpolin2.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/polin2.f90",
+		"/home/fredjones42/projects/nr/test/xpolcof.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xpolcof.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/polcof.f90",
+		"/home/fredjones42/projects/nr/test/xpolcoe.f90",
+		"/home/fredjones42/Desktop/rx-spag/recipes/nr.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xpolcoe.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/polcoe.f90",
+		"/home/fredjones42/projects/nr/test/xhunt.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xhunt.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/hunt.f90",
+		"/home/fredjones42/projects/nr/test/xsplint.f90",
+		"/home/fredjones42/projects/nr/test/xlocate.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xlocate.reslt",
+		"/home/fredjones42/Desktop/rx-spag/final/xlocate.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/locate.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xsplint.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/splint.f90",
+		"/home/fredjones42/projects/nr/test/xspline.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xspline.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/spline.f90",
+		"/home/fredjones42/projects/nr/test/xratint.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xratint.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/ratint.f90",
+		"/home/fredjones42/projects/nr/test/xpolint.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xpolint.f90",
+		"/home/fredjones42/projects/nr/test/input/xpolint.resp",
+		"/home/fredjones42/Desktop/rx-spag/final/polint.f90",
+		"/home/fredjones42/projects/nr/test/xqrupdt.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xqrupdt.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/rotate.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/qrupdt.f90",
+		"/home/fredjones42/projects/nr/test/xqrsolv.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xqrsolv.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/rsolv.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/qrsolv.f90",
+		"/home/fredjones42/projects/nr/test/xqrdcmp.f90",
+		"/home/fredjones42/projects/nr/test/input/MATRX1.DAT",
+		"/home/fredjones42/Desktop/rx-spag/final/xqrdcmp.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/qrdcmp.f90",
+		"/home/fredjones42/projects/nr/test/xcholsl.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/src/xcholsl.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xcholsl.reslt",
+		"/home/fredjones42/projects/nr/test/fred.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xcholsl.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/cholsl.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/choldc.f90",
+		"/home/fredjones42/projects/nr/test/xtoeplz.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xtoeplz.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/toeplz.f90",
+		"/home/fredjones42/projects/nr/test/xvander.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xvander.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/vander.f90",
+		"/home/fredjones42/projects/nr/test/xlinbcg.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xlinbcg.reslt",
+		"/home/fredjones42/Desktop/rx-spag/recipes/linbcg.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xlinbcg.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/asolve.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/atimes.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/snrm.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/linbcg.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/sprsdiag.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/sprstp.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/sprstx.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/sprsax.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/sprsin.f90",
+		"/home/fredjones42/projects/nr/test/xcyclic.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xcyclic.reslt",
+		"/home/fredjones42/projects/nr/test/xmprove.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xcyclic.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/tridag.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/cyclic.f90",
+		"/home/fredjones42/projects/nr/test/xsvdcmp.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xsvdcmp.f90",
+		"/home/fredjones42/projects/nr/test/xsvbksb.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/pythag.f90",
+		"/home/fredjones42/Desktop/rx-spag/allf90/nr.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/svdcmp.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xsvbksb.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/svbksb.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/src/xmprove.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xmprove.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/mprove.f90",
+		"/home/fredjones42/projects/nr/test/xbandec.f90",
+		"/home/fredjones42/Desktop/rx-spag/demo/answers/xbandec.reslt",
+		"/home/fredjones42/Desktop/rx-spag/final/banbks.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/ran.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xbandec.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/bandec.f90",
+		"/home/fredjones42/projects/nr/test/xbanmul.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xbanmul.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/banmul.f90",
+		"/home/fredjones42/projects/nr/test/xtridag.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xtridag.f90",
+		"/home/fredjones42/projects/nr/test/xlubksb.f90",
+		"/home/fredjones42/projects/nr/test/xgaussj.f90",
+		"/home/fredjones42/projects/nr/test/xludcmp.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xlubksb.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/lubksb.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/xludcmp.f90",
+		"/home/fredjones42/Desktop/rx-spag/final/ludcmp.f90",
+		"/home/fredjones42/projects/nr/app/main.f90",
+		"/home/fredjones42/projects/nr/test/check2.f90"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"10",
+			"real32",
+			"f",
+			"real32",
+			"_SP",
+			"(SP)",
+			"use nr, only: SP",
+			"SP",
+			"ran",
+			"use nrtype",
+			"\n    end ",
+			"(/",
+			"&\n",
+			"(/",
+			"read (*, *)",
+			"poly",
+			"99999",
+			"read",
+			"100",
+			"locate",
+			"tridag",
+			"ran",
+			"read (*, *)",
+			"_sp",
+			"DIMENSION",
+			"    REAL",
+			"100.0_SP, 15.0_SP, 0.01_SP, 15.0_SP, 2.3_SP, 0.01_SP, 0.01_SP, 0.01_SP, 1.0_SP",
+			"/)",
+			"(/",
+			"todo",
+			"sa",
+			"linbcg",
+			"SPRS2_DP",
+			"sa",
+			"asolve(",
+			"atimes",
+			"atimes(",
+			"sa",
+			"ran",
+			"read (*, *)",
+			"sprs2_dp",
+			"sprs2_sp",
+			"sprs2_dp",
+			"sprs2_sp",
+			"dp",
+			"sa",
+			"call atimes",
+			"atimes",
+			"call asolve",
+			"asolve",
+			"sa",
+			"use xlinbcg_data",
+			"goto 99999",
+			"99999",
+			"    ",
+			"sprsdiag",
+			"sprstx",
+			"!   Numerical routines",
+			"sprsax",
+			"sprsin",
+			"pythag",
+			"ran",
+			"call",
+			"0.0",
+			"1.0_SP",
+			"0.0",
+			"1.0_DP",
+			"0.0",
+			"svdcmp",
+			"0.0",
+			"SP",
+			"(/",
+			"reshape",
+			"integer(K4B) :: ",
+			"NPAR_TRIDAG",
+			"tmp",
+			"temp",
+			"0.0",
+			"!",
+			"!        ",
+			"read",
+			"!        ",
+			"0.0",
+			"say_hello",
+			"read",
+			"1.0",
+			"1.0_SP",
+			"0.0_SP",
+			"zero",
+			"&",
+			"\n99999 ",
+			"goto 99999",
+			"pointer, dimension(:) :: p",
+			"intent",
+			"pointer",
+			"NPAR_POLY",
+			"REAL(DP), PARAMETER",
+			"REAL(SP), PARAMETER",
+			"KIND",
+			"SELECTED_INT_KIND",
+			"INTEGER, PARAMETER",
+			"\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"func"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/fredjones42/projects/aoc"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"xtrapzd",
+				"final/xtrapzd.f90"
+			],
+			[
+				"trapzd",
+				"final/trapzd.f90"
+			],
+			[
+				"xsplin2",
+				"final/xsplin2.f90"
+			],
+			[
+				"splin2",
+				"final/splin2.f90"
+			],
+			[
+				"xsplie2",
+				"final/xsplie2.f90"
+			],
+			[
+				"splie2",
+				"final/splie2.f90"
+			],
+			[
+				"xbcuint",
+				"final/xbcuint.f90"
+			],
+			[
+				"bcuint",
+				"final/bcuint.f90"
+			],
+			[
+				"xbcucof",
+				"final/xbcucof.f90"
+			],
+			[
+				"bcucof",
+				"final/bcucof.f90"
+			],
+			[
+				"polin2",
+				"final/xpolin2.f90"
+			],
+			[
+				"xpolcof",
+				"final/xpolcof.f90"
+			],
+			[
+				"polcof",
+				"final/polcof.f90"
+			],
+			[
+				"xpolcoe",
+				"final/xpolcoe.f90"
+			],
+			[
+				"polcoe",
+				"final/polcoe.f90"
+			],
+			[
+				"xhunt",
+				"final/xhunt.f90"
+			],
+			[
+				"hunt",
+				"final/hunt.f90"
+			],
+			[
+				"xlocate",
+				"final/xlocate.f90"
+			],
+			[
+				"locate",
+				"final/locate.f90"
+			],
+			[
+				"xsplint",
+				"final/xsplint.f90"
+			],
+			[
+				"splint",
+				"final/splint.f90"
+			],
+			[
+				"xspline",
+				"final/xspline.f90"
+			],
+			[
+				"spline",
+				"final/spline.f90"
+			],
+			[
+				"ratint",
+				"final/xratint.f90"
+			],
+			[
+				"xpolint.",
+				"nr/test/input/xpolint.resp"
+			],
+			[
+				"polint",
+				"final/xpolint.f90"
+			],
+			[
+				"point",
+				"final/polint.f90"
+			],
+			[
+				"ploint",
+				"final/xpolint.f90"
+			],
+			[
+				"rotate",
+				"final/rotate.f90"
+			],
+			[
+				"qrupd",
+				"final/xqrupdt.f90"
+			],
+			[
+				"qrupdt",
+				"final/qrupdt.f90"
+			],
+			[
+				"rsolv",
+				"final/rsolv.f90"
+			],
+			[
+				"qrsolv",
+				"final/xqrsolv.f90"
+			],
+			[
+				"MATRX1.DAT",
+				"nr/test/input/MATRX1.DAT"
+			],
+			[
+				"qrdc",
+				"final/xqrdcmp.f90"
+			],
+			[
+				"qrdcm",
+				"final/qrdcmp.f90"
+			],
+			[
+				"chols",
+				"final/xcholsl.f90"
+			],
+			[
+				"cholsl",
+				"final/cholsl.f90"
+			],
+			[
+				"chol",
+				"final/choldc.f90"
+			],
+			[
+				"toep",
+				"final/xtoeplz.f90"
+			],
+			[
+				"toe",
+				"final/toeplz.f90"
+			],
+			[
+				"xvander",
+				"final/xvander.f90"
+			],
+			[
+				"vander",
+				"final/vander.f90"
+			],
+			[
+				"snr",
+				"final/snrm.f90"
+			],
+			[
+				"asolve",
+				"final/asolve.f90"
+			],
+			[
+				"atimes",
+				"final/atimes.f90"
+			],
+			[
+				"xlinbcg",
+				"final/xlinbcg.f90"
+			],
+			[
+				"linbcf",
+				"final/linbcg.f90"
+			],
+			[
+				"sprsdiag",
+				"final/sprsdiag.f90"
+			],
+			[
+				"sprstp",
+				"final/sprstp.f90"
+			],
+			[
+				"sprstx",
+				"final/sprstx.f90"
+			],
+			[
+				"sprsa",
+				"final/sprsax.f90"
+			],
+			[
+				"sprsi",
+				"final/sprsin.f90"
+			],
+			[
+				"trida",
+				"final/tridag.f90"
+			],
+			[
+				"xcyc",
+				"final/xcyclic.f90"
+			],
+			[
+				"cycli",
+				"final/cyclic.f90"
+			],
+			[
+				"pythag",
+				"final/pythag.f90"
+			],
+			[
+				"xsvdc",
+				"final/xsvdcmp.f90"
+			],
+			[
+				"svdcmp",
+				"final/svdcmp.f90"
+			],
+			[
+				"xsvb",
+				"final/xsvbksb.f90"
+			],
+			[
+				"svbk",
+				"final/svbksb.f90"
+			],
+			[
+				"xmprove",
+				"final/xmprove.f90"
+			],
+			[
+				"mprov",
+				"final/mprove.f90"
+			],
+			[
+				"banbks",
+				"final/banbks.f90"
+			],
+			[
+				"ran",
+				"final/ran.f90"
+			],
+			[
+				"xbandec",
+				"final/xbandec.f90"
+			],
+			[
+				"bandec",
+				"final/bandec.f90"
+			],
+			[
+				"xbanmul",
+				"final/xbanmul.f90"
+			],
+			[
+				"banmul",
+				"final/banmul.f90"
+			],
+			[
+				"xtria",
+				"final/xtridag.f90"
+			],
+			[
+				"tri",
+				"final/tridag.f90"
+			],
+			[
+				"xlubk",
+				"final/xlubksb.f90"
+			],
+			[
+				"lubk",
+				"final/lubksb.f90"
+			],
+			[
+				"xludc",
+				"final/xludcmp.f90"
+			],
+			[
+				"lib",
+				"rsh5/src/lib.rs"
+			],
+			[
+				"bindings.rs",
+				"rsh5/target/debug/build/rsh5-1c5558a708690a09/out/bindings.rs"
+			],
+			[
+				"run",
+				"run.sh"
+			],
+			[
+				"a15.rs",
+				"src/bin/a15.rs"
+			],
+			[
+				"a14.rs",
+				"src/bin/a14.rs"
+			],
+			[
+				"a13.rs",
+				"src/bin/a13.rs"
+			],
+			[
+				"a11",
+				"src/bin/a11.rs"
+			],
+			[
+				"a10.rs",
+				"src/bin/a10.rs"
+			],
+			[
+				"a9.rs",
+				"src/bin/a9.rs"
+			],
+			[
+				"a8.rs",
+				"src/bin/a8.rs"
+			],
+			[
+				"a7.rs",
+				"src/bin/a7.rs"
+			],
+			[
+				"a6.rs",
+				"src/bin/a6.rs"
+			],
+			[
+				"a5.",
+				"src/bin/a5.rs"
+			],
+			[
+				"a4b",
+				"src/bin/a4b.rs"
+			],
+			[
+				"a4a",
+				"src/bin/a4a.rs"
+			],
+			[
+				"a3b",
+				"src/bin/a3b.rs"
+			],
+			[
+				"a3a.rs",
+				"src/bin/a3a.rs"
+			],
+			[
+				"a2",
+				"src/bin/a2.rs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

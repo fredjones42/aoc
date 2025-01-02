@@ -35,9 +35,10 @@ for DAY in $(seq -w 1 25); do
     cat > "$PYTHON_FILE" << EOF
 # Advent of Code $YEAR Day $DAY - Python Solution Stub
 
+
 def main():
     try:
-        with open('../input.txt', 'r') as f:
+        with open("../input.txt", "r") as f:
             data = f.read()
         print("No Python solution has been written yet")
     except FileNotFoundError:

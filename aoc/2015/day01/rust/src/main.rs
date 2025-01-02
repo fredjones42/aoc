@@ -30,3 +30,27 @@ fn pos_extra_rparen(input: &str) -> usize {
     }
     0
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn open_paren_count() {
+        assert_eq!(count_open_paren("(())"), 0);
+        assert_eq!(count_open_paren("()()"), 0);
+        assert_eq!(count_open_paren("((("), 3);
+        assert_eq!(count_open_paren("(()(()("), 3);
+        assert_eq!(count_open_paren("))((((("), 3);
+        assert_eq!(count_open_paren("())"), -1);
+        assert_eq!(count_open_paren("))("), -1);
+        assert_eq!(count_open_paren(")))"), -3);
+        assert_eq!(count_open_paren(")())())"), -3);
+    }
+
+    #[test]
+    fn extra_rparen_pos() {
+        assert_eq!(pos_extra_rparen(")"), 1);
+        assert_eq!(pos_extra_rparen("()())"), 5);
+    }
+}

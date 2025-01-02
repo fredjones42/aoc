@@ -1,10 +1,10 @@
 fn main() {
     let input = std::fs::read_to_string("../input.txt").expect("could not read file");
-    println!("{}", calc_floor(&input));
-    println!("{}", calc_position(&input));
+    println!("Santa goes to floor {}", count_open_paren(&input));
+    println!("Santa enters basement at {}", pos_extra_rparen(&input));
 }
 
-fn calc_floor(input: &str) -> i32 {
+fn count_open_paren(input: &str) -> i32 {
     let mut n = 0;
     for c in input.chars() {
         match c {
@@ -16,7 +16,7 @@ fn calc_floor(input: &str) -> i32 {
     n
 }
 
-fn calc_position(input: &str) -> usize {
+fn pos_extra_rparen(input: &str) -> usize {
     let mut n: i32 = 0;
     for (i, c) in input.chars().enumerate() {
         match c {
